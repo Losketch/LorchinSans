@@ -16,6 +16,10 @@
 - **风格**: 无衬线
 - **适用范围**: 网站、应用、打印
 
+其中P0部分涵盖了 `中日韩统一表意文字基本区` `中日韩统一表意文字扩展A` `扩展G` `扩展H` `中日韩兼容汉字` 的汉字
+
+P2部分涵盖了 `中日韩统一表意文字扩展B` `扩展C` `扩展D` `扩展E` `扩展F` `扩展I` `中日韩兼容汉字补充` 的汉字
+
 ## 字体授权
 本字体以[SIL Open Font License（SIL开放字体协议）](https://openfontlicense.org/open-font-license-official-text/)授权形式发布，详见[授权文件](LICENSE)。
 
@@ -43,4 +47,4 @@
 
 虽然落尘无衬（Lochen Sans）的字形可能不够精美，但它强大的汉字补全能力为广大的中文用户提供了很好的选择。如果你需要一款支持全面汉字的字体，不妨尝试一下落尘无衬（Lochen Sans）。
 
-为进一步了解和下载此字体，请访问 [GitHub](https://github.com/path/to/repo)。
+为进一步了解和下载此字体，请访问 [releases](https://github.com/Losketch/LochenSans/releases/)。
