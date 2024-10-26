@@ -8,6 +8,13 @@
 
 这种全面的汉字支持，使得落尘无衬成为在处理中文文本时的一个备选工具。
 
+你可以通过以下链接在线预览字形，由ZeoSeven提供：<br>
+<a href="https://fonts.zeoseven.com/zh-CN/font/cn/s/312/" target="_blank">
+<img src="https://zeoseven.com/q/logo/zsft/logoa.png" alt="ZeoSeven" title="免费商用字体和 WebFonts 字体 CDN" width="20%"/>P0</a>
+<br>
+<a href="https://fonts.zeoseven.com/zh-CN/font/cn/s/313/" target="_blank">
+<img src="https://zeoseven.com/q/logo/zsft/logoa.png" alt="ZeoSeven" title="免费商用字体和 WebFonts 字体 CDN" width="20%"/>P2</a>
+
 ## 特性
 
 - **全面的汉字支持**：覆盖了所有Unicode汉字，方便用户的国际化需求。
