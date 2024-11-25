@@ -10,10 +10,10 @@
 
 你可以通过以下链接在线预览字形，由ZeoSeven提供：<br>
 <a href="https://fonts.zeoseven.com/zh-CN/items/312/" target="_blank">
-<img src="https://zeoseven.com/_const/d/logo/zsft/logoa.png" alt="ZeoSeven" title="免费商用字体和 WebFonts 字体 CDN" width="20%"/>P0</a>
+<img src="https://zeoseven.com/_const/s/logo/zsft/logoa-v3.png" alt="ZeoSeven" title="免费商用字体和 WebFonts 字体 CDN" width="20%"/>P0</a>
 <br>
 <a href="https://fonts.zeoseven.com/zh-CN/items/313/" target="_blank">
-<img src="https://zeoseven.com/_const/d/logo/zsft/logoa.png" alt="ZeoSeven" title="免费商用字体和 WebFonts 字体 CDN" width="20%"/>P2</a>
+<img src="https://zeoseven.com/_const/s/logo/zsft/logoa-v3.png" alt="ZeoSeven" title="免费商用字体和 WebFonts 字体 CDN" width="20%"/>P2</a>
 
 ## 特性
 
